@@ -1,0 +1,15 @@
+.button {
+    background-color: grey;
+    border: none;
+    color: white;
+    padding: 30px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    margin-left: 25%;
+    margin-top: 10%;
+    cursor: pointer;
+    border-radius: 12px;
+    width: 50%;
+}
